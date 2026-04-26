@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blackfight1022/blackfight1022/main/banner.png">
+  <img src="https://raw.githubusercontent.com/blackfight1022/blackfight1022/main/assets/banner.png" width="100%"/>
 </p>
 
 <h2 align="center">👋 Hola, soy Blackfight1022</h2>
@@ -9,11 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Desarrollador+Full+Stack;Enfoque+Backend+y+Arquitectura;APIs+Escalables+y+de+Alto+Rendimiento;Clean+Code+%7C+System+Design;Disponible+para+Trabajo+Remoto"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackfight1022&label=Visitas&color=38BDF8&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Aplicaciones+Escalables;APIs+de+Alto+Rendimiento;Clean+Architecture;Disponible+para+Trabajo+Remoto"/>
 </p>
 
 ---
@@ -23,9 +19,13 @@
 
 <td width="35%" valign="top">
 
-## 👤 Perfil
+## 🧩 PERFIL
 
-Desarrollador Full Stack con enfoque en la creación de aplicaciones web modernas, escalables y de alto rendimiento.
+```txt
+Full Stack Developer
+Backend Focused
+Arquitectura escalable
+```
 
 📍 Colombia
 📧 [esmic20181022@gmail.com](mailto:esmic20181022@gmail.com)
@@ -33,7 +33,7 @@ Desarrollador Full Stack con enfoque en la creación de aplicaciones web moderna
 
 ---
 
-## ⚙️ Stack
+## ⚙️ STACK
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=38BDF8"/>
@@ -46,18 +46,7 @@ Desarrollador Full Stack con enfoque en la creación de aplicaciones web moderna
 
 ---
 
-## 🧠 Habilidades
-
-* Desarrollo frontend y backend
-* Diseño e implementación de APIs y endpoints
-* Integración de servicios externos
-* Bases de datos SQL y NoSQL
-* Validación de requisitos
-* Pruebas QA (Postman)
-
----
-
-## ⚡ Enfoque
+## ⚡ ENFOQUE
 
 * Arquitectura limpia
 * Escalabilidad
@@ -68,14 +57,14 @@ Desarrollador Full Stack con enfoque en la creación de aplicaciones web moderna
 
 <td width="65%" valign="top">
 
-## 🚀 Dashboard Profesional
+## 🚀 SOBRE MÍ
 
-Desarrollador enfocado en construir **aplicaciones web modernas, escalables y eficientes**.
+Desarrollador Full Stack enfocado en la creación de **aplicaciones web modernas, escalables y de alto rendimiento**.
 
 Experiencia en:
 
 ✔ Desarrollo frontend y backend
-✔ Diseño de APIs
+✔ Diseño e implementación de APIs
 ✔ Integración de servicios externos
 ✔ Bases de datos SQL y NoSQL
 
@@ -84,24 +73,25 @@ Ciclo completo de desarrollo:
 * Levantamiento de requisitos funcionales y no funcionales
 * Diseño de arquitectura
 * Implementación
-* Pruebas de calidad (usuario, integración, seguridad y rendimiento)
+* Pruebas QA (usuario, integración, seguridad y rendimiento)
 
 Además:
 
-* Evaluación técnica para evitar cuellos de botella
+* Evaluación de componentes técnicos
+* Prevención de cuellos de botella
 * Optimización de rendimiento
 * Enfoque en escalabilidad
 
 Me caracterizo por:
 
-* Adaptación rápida a nuevas tecnologías
+* Adaptabilidad a nuevas tecnologías
 * Buenas prácticas de desarrollo
 * Código limpio
 * Soluciones orientadas a resultados
 
 ---
 
-## 📊 Estadísticas
+## 📊 ESTADÍSTICAS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -118,7 +108,7 @@ Me caracterizo por:
 
 ---
 
-## 📈 Actividad
+## 📈 ACTIVIDAD
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackfight1022&theme=github-dark&hide_border=true"/>
@@ -126,7 +116,7 @@ Me caracterizo por:
 
 ---
 
-## 🧩 Proyecto Destacado
+## 🧩 PROYECTO DESTACADO
 
 <table>
 <tr>
@@ -135,15 +125,18 @@ Me caracterizo por:
 
 ### 🏠 TuRefugio — API de Reservas
 
-Sistema backend para gestión de alojamientos tipo Airbnb.
+Sistema backend para gestión de alojamientos.
 
-**Características:**
+```txt
+Arquitectura: Modular
+Auth: JWT
+Base de datos: SQL
+```
 
-* Arquitectura modular (Controller → Service → Repository)
-* Autenticación JWT
-* Validación de disponibilidad (sin solapamientos)
-* API REST estructurada
-* Código limpio y escalable
+✔ API REST estructurada
+✔ Validación de disponibilidad
+✔ Código limpio
+✔ Escalable
 
 </td>
 
@@ -162,19 +155,18 @@ Sistema backend para gestión de alojamientos tipo Airbnb.
 
 ---
 
-## 🏗️ Enfoque de Ingeniería
+## 🏗️ INGENIERÍA
 
 ✔ Diseño modular
 ✔ Separación de responsabilidades
-✔ Prevención de cuellos de botella
 ✔ Optimización de rendimiento
-✔ Buenas prácticas de desarrollo
+✔ Prevención de cuellos de botella
 
 ---
 
-## 💼 Disponibilidad
+## 💼 DISPONIBILIDAD
 
-```diff id="z7h3vk"
+```diff
 + Disponible para trabajo remoto
 + Backend / Full Stack Developer
 + Abierto a retos técnicos
@@ -182,7 +174,7 @@ Sistema backend para gestión de alojamientos tipo Airbnb.
 
 ---
 
-## 🌐 Contacto
+## 🌐 CONTACTO
 
 <p align="center">
   <a href="mailto:esmic20181022@gmail.com">
@@ -195,12 +187,6 @@ Sistema backend para gestión de alojamientos tipo Airbnb.
 
 ---
 
-## 🧭 Filosofía
+## 🧭 FILOSOFÍA
 
-> El buen software no es el más complejo, sino el más mantenible, escalable y fácil de entender.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=120&section=footer"/>
-</p>
+> Construyo software escalable, mantenible y orientado a resultados.
