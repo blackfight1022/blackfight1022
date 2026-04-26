@@ -1,144 +1,102 @@
-# 🟢 root@blackfight1022:~#
+# 🚀 Blackfight1022 — Desarrollador Full Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=1200&pause=300&color=00FF41&center=true&vCenter=true&width=900&lines=iniciando_sistema...;cargando_modulos...;perfil_detectado...;Desarrollador+Full+Stack;Modo+Backend:+ACTIVO;APIs+Escalables:+OK;Listo+para+trabajo+remoto"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2937&height=200&section=header&text=Blackfight1022&fontSize=40&fontColor=38bdf8"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/estado-online-00FF41?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/seguridad-alta-00FF41?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/sistema-estable-00FF41?style=for-the-badge"/>
-</p>
-
----
-
-## 🧠 ~/perfil.log
-
-```bash id="9v3p2x"
-> usuario: blackfight1022
-> rol: desarrollador_full_stack
-> enfoque: backend
-
-> tecnologias:
-  - Node.js
-  - React
-  - JavaScript
-  - HTML5 / CSS3
-
-> especialidades:
-  - Desarrollo frontend y backend
-  - Diseño e implementación de APIs
-  - Integración de servicios externos
-  - Bases de datos SQL y NoSQL
-
-> ciclo_de_desarrollo:
-  - Requisitos funcionales y no funcionales
-  - Arquitectura de sistemas
-  - Implementación y pruebas
-
-> QA:
-  - Pruebas de usuario
-  - Pruebas de integración
-  - Seguridad y rendimiento
-  - Validación con Postman
-
-> enfoque_tecnico:
-  - Prevención de cuellos de botella
-  - Evaluación de arquitectura y componentes
-  - Optimización de rendimiento
-  - Escalabilidad del sistema
-
-> habilidades:
-  - Adaptación rápida a nuevas tecnologías
-  - Buenas prácticas de desarrollo
-  - Código limpio y mantenible
-  - Soluciones orientadas a resultados
-
-> estado: ACTIVO
-```
-
----
-
-## ⚙️ ~/stack.modules
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,mongodb,js,html,css,git,github,vscode"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Desarrollador+Full+Stack;Enfoque+Backend+y+Arquitectura;APIs+Escalables+y+Sistemas+Robustos;Disponible+para+Trabajo+Remoto"/>
 </p>
 
 ---
 
-## 🧩 ~/proyectos/
+## 🧠 Perfil Profesional
 
-### ┌── 🏠 TuRefugio_API
+Desarrollador Full Stack con enfoque en la creación de **aplicaciones web modernas, escalables y de alto rendimiento**, utilizando tecnologías como **Node.js, React, JavaScript, HTML5 y CSS3**.
 
-### └── sistema_de_reservas_backend
+Experiencia en:
 
-```bash id="x7m4kq"
-> arquitectura: controller → service → repository
-> autenticacion: JWT
-> base_de_datos: MySQL
+* Desarrollo frontend y backend
+* Diseño e implementación de APIs y endpoints
+* Integración de servicios externos
+* Gestión de bases de datos SQL y NoSQL
 
-> funcionalidades:
-  - Gestión de alojamientos
-  - Sistema de reservas
-  - Validación de disponibilidad (sin solapamientos)
-  - Estructura modular y escalable
-```
+Con conocimientos en:
+
+* Ciclo completo de desarrollo de software
+* Levantamiento y validación de requisitos funcionales y no funcionales
+* Pruebas de calidad (QA): usuario, integración, seguridad y rendimiento
+* Uso de herramientas como Postman
+
+Enfoque en:
+
+* Optimización de rendimiento
+* Prevención de cuellos de botella
+* Escalabilidad del sistema
+* Código limpio y mantenible
+
+---
+
+## ⚙️ Stack Tecnológico
 
 <p align="center">
-  <a href="https://github.com/blackfight1022/TuRefugio-app-produccion-">
-    <img src="https://img.shields.io/badge/ACCEDER_REPOSITORIO-00FF41?style=for-the-badge"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,mongodb,js,html,css,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-## 📊 ~/metricas
+## 🏗️ Enfoque de Ingeniería
+
+* Arquitectura modular (Controller → Service → Repository)
+* Separación de responsabilidades
+* Diseño orientado a escalabilidad
+* Validación de datos y manejo de errores
+* Desarrollo basado en buenas prácticas
+
+---
+
+## 🚀 Proyecto Destacado
+
+### 🏠 TuRefugio — API de Sistema de Reservas
+
+Sistema backend diseñado para la gestión de alojamientos y reservas.
+
+**Características principales:**
+
+* API REST estructurada
+* Autenticación mediante JWT
+* Validación de disponibilidad de reservas
+* Arquitectura limpia y mantenible
+
+🔗 https://github.com/blackfight1022/TuRefugio-app-produccion-
+
+---
+
+## 📊 Actividad en GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackfight1022&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackfight1022&theme=github-dark&hide_border=true"/>
-</p>
+---
+
+## 💼 Disponibilidad
+
+* Disponible para oportunidades remotas
+* Interesado en roles Backend / Full Stack
+* Enfocado en crecimiento profesional y retos técnicos
 
 ---
 
-## 🧠 ~/engine.core
-
-```bash id="r3h8zn"
-> diseñando sistemas escalables...
-> previniendo cuellos de botella...
-> escribiendo código limpio...
-> optimizando rendimiento...
-> adaptándome a nuevas tecnologías...
-```
-
----
-
-## 💼 ~/estado
-
-```diff id="t4m9qb"
-+ DISPONIBLE_PARA_TRABAJO_REMOTO
-+ BACKEND / FULL_STACK
-+ LISTO_PARA_ENTORNOS_PRODUCTIVOS
-```
-
----
-
-## 🌐 ~/contacto
+## 🌐 Contacto
 
 <p align="center">
   <a href="mailto:esmic20181022@gmail.com">
-    <img src="https://img.shields.io/badge/email-acceso-00FF41?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/jesús-cabrejo-71b871323">
-    <img src="https://img.shields.io/badge/linkedin-red-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
 
@@ -149,16 +107,12 @@
 
 ---
 
-## 🧭 ~/filosofia.txt
+## 🧭 Filosofía
 
-```txt id="f6k2yp"
-los sistemas simples escalan mejor
-el código limpio dura más
-la arquitectura define el éxito
-```
+> “El buen software no es el más complejo, sino el más mantenible, escalable y fácil de entender.”
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=120&section=footer"/>
 </p>
