@@ -1,132 +1,145 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blackfight1022/blackfight1022/main/assets/banner.png" width="100%"/>
-</p>
-
-<h1 align="center">👋 Hola, soy Blackfight1022</h1>
+# 🚀 Blackfight1022 — Full Stack Engineer ⚡
 
 <p align="center">
-  <b>Full Stack Developer | Backend & Arquitectura</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=BLACKFIGHT1022&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=APIs+Escalables;Arquitectura+Modular;Clean+Code;High+Performance;Disponible+para+Trabajo+Remoto"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer+⚡;Scalable+Web+Applications;Clean+Architecture+Advocate;APIs+%7C+Performance+%7C+System+Design;Open+to+Remote+Opportunities"/>
 </p>
 
----
-
-# 🧠 Perfil Profesional
-
-Desarrollador Full Stack enfocado en la creación de aplicaciones web modernas, escalables y de alto rendimiento.
-
-✔ Node.js • React • JavaScript • HTML5 • CSS3
-✔ APIs REST • Arquitectura limpia • System Design
-✔ SQL / NoSQL • QA • Performance
-
-Experiencia en ciclo completo de desarrollo:
-
-* Levantamiento de requisitos
-* Diseño de arquitectura
-* Implementación
-* Testing (QA, integración, seguridad, rendimiento)
-
----
-
-# 🚀 Proyectos (Portfolio Visual)
-
-## 🏠 TuRefugio — Plataforma de Reservas
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blackfight1022/blackfight1022/main/assets/turefugio.png" width="80%"/>
-</p>
-
-**Sistema backend para gestión de alojamientos tipo Airbnb**
-
-✔ Arquitectura modular (Controller → Service → Repository)
-✔ Autenticación JWT
-✔ Validación de disponibilidad
-✔ API REST estructurada
-✔ Código limpio y escalable
-
-<p align="center">
-  <a href="https://github.com/blackfight1022/TuRefugio-app-produccion-">
-    <img src="https://img.shields.io/badge/Repositorio-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=blackfight1022&label=Profile%20Views&color=00F7FF&style=flat" />
 </p>
 
 ---
 
-## 📱 Proyecto Móvil / API
+## 🧠 Who Am I
+
+```diff id="g2b3x9"
++ Full Stack Developer focused on scalable systems
++ Strong backend mindset with solid frontend skills
+# Turning complex requirements into simple, efficient solutions
+```
+
+I build **modern, scalable and high-performance web applications** using:
+
+⚙️ Node.js • ⚛️ React • 🧠 JavaScript • 🌐 Web Technologies
+
+---
+
+## 🚀 What I Do
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blackfight1022/blackfight1022/main/assets/app.png" width="80%"/>
+  🚀 Build • ⚙️ Design • 🔍 Optimize • 🧪 Validate
 </p>
 
-Aplicación enfocada en módulos móviles y servicios backend.
+* Develop **end-to-end applications (frontend + backend)**
+* Design and implement **RESTful APIs & integrations**
+* Manage **SQL & NoSQL databases**
+* Ensure **performance, scalability & maintainability**
+* Apply **testing strategies (QA, integration, security, performance)**
 
-✔ Integración de APIs
-✔ Estructura modular
-✔ Enfoque en rendimiento
-✔ Escalabilidad
+---
+
+## ⚡ Tech Arsenal
 
 <p align="center">
-  <a href="https://github.com/blackfight1022/APK-Desarrollar-m-dulos-m-viles-seg-n-requerimientos-del-proyecto-GA8-220501096-AA2-EV02">
-    <img src="https://img.shields.io/badge/Repositorio-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,mongodb,js,html,css,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-# ⚙️ Stack Tecnológico
+## 🏗️ Engineering Strengths
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,mongodb,js,html,css,git,github,vscode" />
-</p>
+<div align="center">
+
+| Area           | What I Bring                            |
+| -------------- | --------------------------------------- |
+| ⚙️ Backend     | API design, scalability, business logic |
+| 🎨 Frontend    | React architecture, UI performance      |
+| 🗄 Databases   | SQL & NoSQL modeling                    |
+| 🧪 QA          | Testing, validation, reliability        |
+| 🚀 Performance | Bottleneck detection & optimization     |
+
+</div>
 
 ---
 
-# 📊 Métricas
+## 🧠 Engineering Mindset
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackfight1022&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🧠 Mentalidad de Ingeniería
-
-```txt
-• Diseño escalable desde el inicio
-• Prevención de cuellos de botella
-• Código limpio y mantenible
-• Optimización de rendimiento
+```txt id="i0g9zw"
+Simplicity > Complexity
+Clarity > Cleverness
+Reliability > Hype
 ```
 
 ---
 
-# 💼 Disponibilidad
+## 🚀 Featured Project
 
-```diff
-+ Disponible para trabajo remoto
-+ Backend / Full Stack Developer
-+ Abierto a retos técnicos
+### 🏠 TuRefugio — Booking System API
+
+Scalable backend system for managing property reservations.
+
+**Highlights:**
+
+* Modular architecture (Controller → Service → Repository)
+* JWT authentication
+* Reservation validation (no overlapping bookings)
+* Clean and maintainable structure
+
+🔗 https://github.com/blackfight1022/TuRefugio-app-produccion-
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackfight1022&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackfight1022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+## 💼 Open to Opportunities
+
+```diff id="t8t7ru"
++ Available for Remote Roles
++ Backend / Full Stack Positions
++ Open to challenging engineering problems
 ```
 
 ---
 
-# 🌐 Contacto
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:esmic20181022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
   <a href="https://www.linkedin.com/in/jesús-cabrejo-71b871323">
-    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://github.com/blackfight1022">
+    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  <a href="mailto:esmic20181022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-# 🧭 Filosofía
+## 🧭 Philosophy
 
-> Construyo software escalable, mantenible y orientado a resultados.
+<p align="center">
+  <i>"Good engineering is about building systems that are scalable, maintainable, and easy to understand."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=150&section=footer"/>
+</p>
