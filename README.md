@@ -2,38 +2,81 @@
   <img src="https://raw.githubusercontent.com/blackfight1022/blackfight1022/main/assets/banner.png" width="100%"/>
 </p>
 
----
-
-<h2 align="center">👋 Hola, soy Blackfight1022</h2>
+<h1 align="center">👋 Hola, soy Blackfight1022</h1>
 
 <p align="center">
-  <b>Desarrollador Full Stack | Backend & Arquitectura</b>
+  <b>Full Stack Developer | Backend & Arquitectura</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Aplicaciones+Escalables;APIs+de+Alto+Rendimiento;Arquitectura+Modular;Clean+Code;Disponible+para+Trabajo+Remoto"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=APIs+Escalables;Arquitectura+Modular;Clean+Code;High+Performance;Disponible+para+Trabajo+Remoto"/>
 </p>
 
 ---
 
-## 🧩 Perfil
+# 🧠 Perfil Profesional
 
-```txt
-Full Stack Developer
-Backend Focused
-Arquitectura escalable
-APIs de alto rendimiento
-```
-
-Desarrollador Full Stack con enfoque en la creación de aplicaciones web modernas, escalables y de alto rendimiento.
+Desarrollador Full Stack enfocado en la creación de aplicaciones web modernas, escalables y de alto rendimiento.
 
 ✔ Node.js • React • JavaScript • HTML5 • CSS3
 ✔ APIs REST • Arquitectura limpia • System Design
 ✔ SQL / NoSQL • QA • Performance
 
+Experiencia en ciclo completo de desarrollo:
+
+* Levantamiento de requisitos
+* Diseño de arquitectura
+* Implementación
+* Testing (QA, integración, seguridad, rendimiento)
+
 ---
 
-## ⚙️ Stack Tecnológico
+# 🚀 Proyectos (Portfolio Visual)
+
+## 🏠 TuRefugio — Plataforma de Reservas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackfight1022/blackfight1022/main/assets/turefugio.png" width="80%"/>
+</p>
+
+**Sistema backend para gestión de alojamientos tipo Airbnb**
+
+✔ Arquitectura modular (Controller → Service → Repository)
+✔ Autenticación JWT
+✔ Validación de disponibilidad
+✔ API REST estructurada
+✔ Código limpio y escalable
+
+<p align="center">
+  <a href="https://github.com/blackfight1022/TuRefugio-app-produccion-">
+    <img src="https://img.shields.io/badge/Repositorio-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 📱 Proyecto Móvil / API
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackfight1022/blackfight1022/main/assets/app.png" width="80%"/>
+</p>
+
+Aplicación enfocada en módulos móviles y servicios backend.
+
+✔ Integración de APIs
+✔ Estructura modular
+✔ Enfoque en rendimiento
+✔ Escalabilidad
+
+<p align="center">
+  <a href="https://github.com/blackfight1022/APK-Desarrollar-m-dulos-m-viles-seg-n-requerimientos-del-proyecto-GA8-220501096-AA2-EV02">
+    <img src="https://img.shields.io/badge/Repositorio-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+# ⚙️ Stack Tecnológico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,mongodb,js,html,css,git,github,vscode" />
@@ -41,75 +84,27 @@ Desarrollador Full Stack con enfoque en la creación de aplicaciones web moderna
 
 ---
 
-## 🧠 Sobre mí
-
-Desarrollador enfocado en construir sistemas eficientes, mantenibles y escalables.
-
-Experiencia en:
-
-* Desarrollo frontend y backend
-* Diseño e implementación de APIs
-* Integración de servicios externos
-* Bases de datos SQL y NoSQL
-
-Ciclo completo:
-
-* Levantamiento de requisitos
-* Diseño de arquitectura
-* Implementación
-* Pruebas QA (Postman)
-
-Además:
-
-* Evaluación técnica
-* Prevención de cuellos de botella
-* Optimización de rendimiento
-
----
-
-## 📊 Actividad
+# 📊 Métricas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackfight1022&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Proyecto Destacado
-
-### 🏠 TuRefugio — API de Reservas
+# 🧠 Mentalidad de Ingeniería
 
 ```txt
-Arquitectura: Modular
-Auth: JWT
-Database: SQL
-```
-
-✔ API REST estructurada
-✔ Validación de disponibilidad
-✔ Código limpio
-✔ Escalable
-
-🔗 https://github.com/blackfight1022/TuRefugio-app-produccion-
-
----
-
-## 🏗️ Mentalidad de Ingeniería
-
-```
-• Diseño pensando en escalabilidad
+• Diseño escalable desde el inicio
+• Prevención de cuellos de botella
 • Código limpio y mantenible
 • Optimización de rendimiento
-• Prevención de errores y fallos
 ```
 
 ---
 
-## 💼 Disponibilidad
+# 💼 Disponibilidad
 
 ```diff
 + Disponible para trabajo remoto
@@ -119,7 +114,7 @@ Database: SQL
 
 ---
 
-## 🌐 Contacto
+# 🌐 Contacto
 
 <p align="center">
   <a href="mailto:esmic20181022@gmail.com">
@@ -132,6 +127,6 @@ Database: SQL
 
 ---
 
-## 🧭 Filosofía
+# 🧭 Filosofía
 
-> Software simple, escalable y mantenible siempre gana.
+> Construyo software escalable, mantenible y orientado a resultados.
