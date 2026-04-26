@@ -1,171 +1,157 @@
-# 🚀 Blackfight1022 — Software Engineer (Backend / System Design)
+# 🚀 Blackfight1022 — Desarrollador Full Stack ⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Software%20Engineer%20%7C%20System%20Design&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=BLACKFIGHT1022&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+System+Design+Focused;Node.js+%7C+React+%7C+Distributed+Systems;Scalable+APIs+%7C+Clean+Architecture;Performance+%7C+Reliability+%7C+Maintainability"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Desarrollador+Full+Stack+⚡;Aplicaciones+Web+Escalables;Clean+Architecture+%7C+APIs;Node.js+%7C+React+%7C+JavaScript;Disponible+para+Oportunidades+Remotas"/>
 </p>
 
 <p align="center">
-  <b>Building reliable, scalable and maintainable software systems with strong engineering fundamentals.</b>
+  <img src="https://komarev.com/ghpvc/?username=blackfight1022&label=Visitas%20al%20Perfil&color=00F7FF&style=flat" />
 </p>
 
 ---
 
-## 🧠 About (Engineering Summary)
+## 🧠 Sobre mí
 
-Software Engineer focused on backend systems, API design, and scalable architecture. I specialize in building production-ready applications using modern JavaScript ecosystems, with emphasis on system reliability, maintainability, and performance.
+```diff
++ Desarrollador Full Stack enfocado en aplicaciones web escalables
++ Fuerte orientación backend con habilidades frontend sólidas
+# Transformo requerimientos complejos en soluciones eficientes y de alto rendimiento
+```
 
-Core mindset: **simplicity, scalability, and correctness over complexity.**
+Soy desarrollador con experiencia en la creación de **aplicaciones modernas, escalables y de alto rendimiento**, utilizando tecnologías como:
 
----
-
-## 🎯 Engineering Focus Areas
-
-* Backend systems design & API architecture
-* Distributed system fundamentals
-* Scalable service design (modular & stateless)
-* Database modeling (SQL / NoSQL)
-* Performance optimization & bottleneck analysis
-* Software quality (testing & validation strategies)
+⚙️ Node.js • ⚛️ React • 🧠 JavaScript • 🌐 HTML5 • 🎨 CSS3
 
 ---
 
-## 🏗️ System Design Overview
+## 🚀 Qué hago
 
-### Architecture Principles
+<p align="center">
+  🚀 Desarrollo • ⚙️ Diseño • 🔍 Optimización • 🧪 Validación
+</p>
 
-* Separation of concerns (layered architecture)
-* Stateless services where possible
-* Horizontal scalability readiness
-* Fail-safe and resilient API design
-
-### Common Patterns Used
-
-* Controller → Service → Repository
-* Event-driven architecture (conceptual)
-* RESTful API standards
-* Modular monolith evolution path
+* Desarrollo **aplicaciones completas (frontend + backend)**
+* Diseño e implementación de **APIs REST y endpoints**
+* Integración con **servicios externos**
+* Gestión de **bases de datos SQL y NoSQL**
+* Optimización de rendimiento y escalabilidad
+* Aplicación de **pruebas de calidad (QA)**
 
 ---
 
-## 🧩 Reference Architecture
+## ⚡ Stack Tecnológico
 
-```mermaid
-graph TD
-A[Client / Frontend] --> B[API Gateway]
-B --> C[Backend Services]
-C --> D[Business Logic Layer]
-D --> E[(Database SQL/NoSQL)]
-C --> F[External Services / APIs]
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,mongodb,js,html,css,git,github,vscode&perline=6" />
+</p>
+
+---
+
+## 🏗️ Fortalezas Técnicas
+
+<div align="center">
+
+| Área              | Enfoque                                          |
+| ----------------- | ------------------------------------------------ |
+| ⚙️ Backend        | APIs, lógica de negocio, escalabilidad           |
+| 🎨 Frontend       | Interfaces dinámicas con React                   |
+| 🗄 Bases de Datos | Modelado SQL y NoSQL                             |
+| 🧪 QA             | Pruebas funcionales, integración y rendimiento   |
+| 🚀 Performance    | Optimización y eliminación de cuellos de botella |
+
+</div>
+
+---
+
+## 🧪 Calidad de Software
+
+* Pruebas de usuario, integración y rendimiento
+* Validación de requisitos funcionales y no funcionales
+* Uso de herramientas como **Postman**
+* Manejo de errores y validaciones
+* Aplicación de buenas prácticas de desarrollo
+
+---
+
+## 🧠 Enfoque como Ingeniero
+
+```txt
+• Diseño sistemas pensando en escalabilidad desde el inicio
+• Identifico y prevengo cuellos de botella
+• Priorizo código limpio, mantenible y eficiente
+• Me adapto rápidamente a nuevas tecnologías
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Proyecto Destacado
 
-### Frontend
+### 🏠 TuRefugio — API de Sistema de Reservas
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DFE1)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+Sistema backend para la gestión de alojamientos y reservas.
 
-### Backend
+**Características principales:**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+* Arquitectura modular (Controller → Service → Repository)
+* Autenticación con JWT
+* Validación de disponibilidad de reservas
+* Código limpio y mantenible
 
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### Tools
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+🔗 https://github.com/blackfight1022/TuRefugio-app-produccion-
 
 ---
 
-## 🚀 Selected Engineering Work
-
-### 1. Scalable Backend API System
-
-**Goal:** Design modular backend architecture for extensibility and maintainability
-
-* RESTful API structure
-* Authentication & authorization layer
-* Service-based architecture
-
-**Focus:** Scalability, maintainability, clean separation of concerns
-
----
-
-### 2. Data-Driven Dashboard (React)
-
-**Goal:** Build responsive UI consuming high-frequency API data
-
-* Component-driven architecture
-* Optimized rendering strategy
-* API integration layer
-
-**Focus:** UI performance and clean frontend architecture
-
----
-
-### 3. REST API Engineering Project
-
-**Goal:** Build production-ready API with proper standards
-
-* Clean REST design principles
-* Proper HTTP semantics
-* Postman-based validation workflow
-
-**Focus:** Reliability, structure, and testability
-
----
-
-## 🧪 Software Quality
-
-* Unit & integration testing principles
-* API contract validation
-* Error handling strategies
-* Input validation & security basics
-
----
-
-## 📊 Engineering Signals
-
-* System maintainability
-* API response consistency
-* Query efficiency
-* Architectural modularity
-
----
-
-## 🛠️ Core Principles
-
-* Build simple systems that scale
-* Prefer explicit design over implicit behavior
-* Optimize when necessary, not prematurely
-* Design for failure and recovery
-
----
-
-## 📫 Contact
-
-* 💼 LinkedIn: [https://www.linkedin.com/in/jesús-cabrejo-71b871323](https://www.linkedin.com/in/jesús-cabrejo-71b871323)
-* 💻 GitHub: [https://github.com/blackfight1022](https://github.com/blackfight1022)
-* 📧 Email: [esmic20181022@gmail.com](mailto:esmic20181022@gmail.com)
-
----
-
-## 🧭 Engineering Philosophy
-
-> “Good engineering is about making systems understandable, reliable, and evolvable.”
+## 📊 Métricas de GitHub
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackfight1022&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackfight1022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+## 💼 Disponibilidad
+
+```diff
++ Disponible para oportunidades remotas
++ Interesado en roles Backend / Full Stack
++ Enfocado en retos técnicos y crecimiento profesional
+```
+
+---
+
+## 🌐 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jesús-cabrejo-71b871323">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://github.com/blackfight1022">
+    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  <a href="mailto:esmic20181022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 🧭 Filosofía de Ingeniería
+
+<p align="center">
+  <i>"El buen desarrollo de software consiste en crear sistemas escalables, mantenibles y fáciles de entender."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=150&section=footer"/>
 </p>
