@@ -17,9 +17,13 @@
 ## 🧠 Who Am I
 
 ```diff id="g2b3x9"
-+ Full Stack Developer focused on scalable systems
-+ Strong backend mindset with solid frontend skills
-# Turning complex requirements into simple, efficient solutions
+Desarrollador Full Stack con enfoque en la creación de aplicaciones web modernas, escalables y de alto rendimiento utilizando tecnologías como Node.js, React, JavaScript, HTML5 y CSS3. Experiencia en desarrollo frontend y backend, diseño e implementación de APIs y endpoints, así como integración de servicios externos.
+
+Cuento con sólidos conocimientos en gestión de bases de datos SQL y NoSQL, y en el ciclo completo de desarrollo de software, incluyendo levantamiento y validación de requisitos funcionales y no funcionales. Experiencia en pruebas de calidad (QA), abarcando pruebas de usuario, integración, seguridad y rendimiento, apoyadas con herramientas como Postman.
+
+Además, tengo en cuenta la evaluación de componentes técnicos (incluyendo hardware y arquitectura) para garantizar implementaciones eficientes, evitando cuellos de botella y asegurando la escalabilidad del sistema.
+
+Me caracterizo por mi rápida adaptabilidad a nuevas tecnologías y lenguajes de programación, manteniendo buenas prácticas de desarrollo, código limpio y soluciones orientadas a resultados.
 ```
 
 I build **modern, scalable and high-performance web applications** using:
