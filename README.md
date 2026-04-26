@@ -1,126 +1,144 @@
-# ⚡ Blackfight1022 — Full Stack Engineer
+# 🟢 root@blackfight1022:~#
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:2c5364&height=260&section=header&text=BLACKFIGHT1022&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=1200&pause=300&color=00FF41&center=true&vCenter=true&width=900&lines=iniciando_sistema...;cargando_modulos...;perfil_detectado...;Desarrollador+Full+Stack;Modo+Backend:+ACTIVO;APIs+Escalables:+OK;Listo+para+trabajo+remoto"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer+⚡;Backend+Focused+Developer;APIs+Escalables+y+de+Alto+Rendimiento;Clean+Architecture+%7C+System+Design;Disponible+para+Trabajo+Remoto"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackfight1022&label=Visitas&color=00F7FF&style=flat" />
-</p>
-
----
-
-## 🧠 Sobre mí
-
-Desarrollador Full Stack enfocado en la creación de **aplicaciones web modernas, escalables y de alto rendimiento**, utilizando tecnologías como **Node.js, React, JavaScript, HTML5 y CSS3**.
-
-Experiencia en:
-
-* Desarrollo frontend y backend
-* Diseño e implementación de APIs y endpoints
-* Integración de servicios externos
-* Gestión de bases de datos SQL y NoSQL
-
-También cuento con conocimientos en:
-
-* Ciclo completo de desarrollo de software
-* Validación de requisitos funcionales y no funcionales
-* Pruebas de calidad (QA): usuario, integración, seguridad y rendimiento
-* Uso de herramientas como Postman
-
-Además, evalúo componentes técnicos y arquitectura para:
-
-* Evitar cuellos de botella
-* Garantizar escalabilidad
-* Asegurar implementaciones eficientes
-
-Me adapto rápidamente a nuevas tecnologías, aplicando **buenas prácticas, código limpio y soluciones orientadas a resultados**.
-
----
-
-## ⚙️ Stack Tecnológico
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,mongodb,js,html,css,git,github,vscode&perline=6" />
+  <img src="https://img.shields.io/badge/estado-online-00FF41?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/seguridad-alta-00FF41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/sistema-estable-00FF41?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Proyecto Destacado
+## 🧠 ~/perfil.log
 
-### 🏠 TuRefugio — API de Reservas
+```bash id="9v3p2x"
+> usuario: blackfight1022
+> rol: desarrollador_full_stack
+> enfoque: backend
 
-Sistema backend para gestión de alojamientos.
+> tecnologias:
+  - Node.js
+  - React
+  - JavaScript
+  - HTML5 / CSS3
 
-**Incluye:**
+> especialidades:
+  - Desarrollo frontend y backend
+  - Diseño e implementación de APIs
+  - Integración de servicios externos
+  - Bases de datos SQL y NoSQL
 
-* Arquitectura modular (Controller → Service → Repository)
-* Autenticación JWT
-* Validación de disponibilidad
-* Código limpio y escalable
+> ciclo_de_desarrollo:
+  - Requisitos funcionales y no funcionales
+  - Arquitectura de sistemas
+  - Implementación y pruebas
+
+> QA:
+  - Pruebas de usuario
+  - Pruebas de integración
+  - Seguridad y rendimiento
+  - Validación con Postman
+
+> enfoque_tecnico:
+  - Prevención de cuellos de botella
+  - Evaluación de arquitectura y componentes
+  - Optimización de rendimiento
+  - Escalabilidad del sistema
+
+> habilidades:
+  - Adaptación rápida a nuevas tecnologías
+  - Buenas prácticas de desarrollo
+  - Código limpio y mantenible
+  - Soluciones orientadas a resultados
+
+> estado: ACTIVO
+```
+
+---
+
+## ⚙️ ~/stack.modules
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,mongodb,js,html,css,git,github,vscode"/>
+</p>
+
+---
+
+## 🧩 ~/proyectos/
+
+### ┌── 🏠 TuRefugio_API
+
+### └── sistema_de_reservas_backend
+
+```bash id="x7m4kq"
+> arquitectura: controller → service → repository
+> autenticacion: JWT
+> base_de_datos: MySQL
+
+> funcionalidades:
+  - Gestión de alojamientos
+  - Sistema de reservas
+  - Validación de disponibilidad (sin solapamientos)
+  - Estructura modular y escalable
+```
 
 <p align="center">
   <a href="https://github.com/blackfight1022/TuRefugio-app-produccion-">
-    <img src="https://img.shields.io/badge/Ver%20Repositorio-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ACCEDER_REPOSITORIO-00FF41?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 📊 Actividad
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackfight1022&theme=tokyonight"/>
-</p>
+## 📊 ~/metricas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackfight1022&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🏆 Logros
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackfight1022&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackfight1022&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🏗️ Mentalidad de Ingeniería
+## 🧠 ~/engine.core
 
-```txt
-• Diseño pensando en escalabilidad desde el inicio  
-• Prevengo cuellos de botella antes de que ocurran  
-• Priorizo código limpio, mantenible y eficiente  
-• Me adapto rápidamente a nuevas tecnologías  
+```bash id="r3h8zn"
+> diseñando sistemas escalables...
+> previniendo cuellos de botella...
+> escribiendo código limpio...
+> optimizando rendimiento...
+> adaptándome a nuevas tecnologías...
 ```
 
 ---
 
-## 💼 Disponibilidad
+## 💼 ~/estado
 
-```diff
-+ Disponible para oportunidades remotas  
-+ Backend / Full Stack Developer  
-+ Enfocado en retos técnicos reales  
+```diff id="t4m9qb"
++ DISPONIBLE_PARA_TRABAJO_REMOTO
++ BACKEND / FULL_STACK
++ LISTO_PARA_ENTORNOS_PRODUCTIVOS
 ```
 
 ---
 
-## 🌐 Contacto
+## 🌐 ~/contacto
 
 <p align="center">
   <a href="mailto:esmic20181022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/email-acceso-00FF41?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/jesús-cabrejo-71b871323">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/linkedin-red-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
 
@@ -131,14 +149,16 @@ Sistema backend para gestión de alojamientos.
 
 ---
 
-## 🧭 Filosofía
+## 🧭 ~/filosofia.txt
 
-<p align="center">
-  <i>"El buen software no es el más complejo, sino el más entendible, escalable y mantenible."</i>
-</p>
+```txt id="f6k2yp"
+los sistemas simples escalan mejor
+el código limpio dura más
+la arquitectura define el éxito
+```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=120&section=footer"/>
 </p>
