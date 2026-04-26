@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blackfight1022/blackfight1022/refs/heads/main/banner.png/>
+  <img src="https://raw.githubusercontent.com/blackfight1022/blackfight1022/refs/heads/main/banner.png/">
 </p>
 
 <h2 align="center">👋 Hola, soy Blackfight1022</h2>
