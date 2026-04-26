@@ -1,49 +1,65 @@
-# 🚀 Blackfight1022 — Desarrollador Full Stack ⚡
+# ⚡ Blackfight1022 — Full Stack Engineer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=BLACKFIGHT1022&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=280&section=header&text=BLACKFIGHT1022&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Desarrollador+Full+Stack+⚡;Aplicaciones+Web+Escalables;Clean+Architecture+%7C+APIs;Node.js+%7C+React+%7C+JavaScript;Disponible+para+Oportunidades+Remotas"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2300&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+⚡;Backend+Focused+Engineer;APIs+Escalables+y+de+Alto+Rendimiento;Clean+Architecture+%7C+System+Design;Disponible+para+Trabajo+Remoto"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackfight1022&label=Visitas%20al%20Perfil&color=00F7FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=blackfight1022&label=Visitas&color=00F7FF&style=flat" />
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-```diff
-+ Desarrollador Full Stack enfocado en aplicaciones web escalables
-+ Fuerte orientación backend con habilidades frontend sólidas
-# Transformo requerimientos complejos en soluciones eficientes y de alto rendimiento
+```diff id="7l9qpf"
++ Desarrollador Full Stack enfocado en backend
++ Construyo sistemas escalables y de alto rendimiento
+# Convierto requerimientos complejos en soluciones eficientes
 ```
 
-Soy desarrollador con experiencia en la creación de **aplicaciones modernas, escalables y de alto rendimiento**, utilizando tecnologías como:
+Desarrollador enfocado en la creación de **aplicaciones web modernas, escalables y eficientes**, trabajando con:
 
 ⚙️ Node.js • ⚛️ React • 🧠 JavaScript • 🌐 HTML5 • 🎨 CSS3
 
+Experiencia en:
+
+* Desarrollo frontend y backend
+* Diseño de APIs y arquitectura de sistemas
+* Integración de servicios externos
+* Bases de datos SQL y NoSQL
+* Validación de requisitos y pruebas QA
+
 ---
 
-## 🚀 Qué hago
+## ⚡ Actividad & Dinámica
 
 <p align="center">
-  🚀 Desarrollo • ⚙️ Diseño • 🔍 Optimización • 🧪 Validación
+  <img src="https://github-profile-trophy.vercel.app/?username=blackfight1022&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
-* Desarrollo **aplicaciones completas (frontend + backend)**
-* Diseño e implementación de **APIs REST y endpoints**
-* Integración con **servicios externos**
-* Gestión de **bases de datos SQL y NoSQL**
-* Optimización de rendimiento y escalabilidad
-* Aplicación de **pruebas de calidad (QA)**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackfight1022&theme=tokyonight"/>
+</p>
 
 ---
 
-## ⚡ Stack Tecnológico
+## 🏗️ Mentalidad de Ingeniería
+
+```txt id="y4lh7q"
+• Diseño pensando en escalabilidad desde el inicio
+• Evito cuellos de botella antes de que ocurran
+• Priorizo código limpio, mantenible y eficiente
+• Me adapto rápido a nuevas tecnologías
+```
+
+---
+
+## ⚙️ Stack Tecnológico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,mongodb,js,html,css,git,github,vscode&perline=6" />
@@ -51,79 +67,42 @@ Soy desarrollador con experiencia en la creación de **aplicaciones modernas, es
 
 ---
 
-## 🏗️ Fortalezas Técnicas
-
-<div align="center">
-
-| Área              | Enfoque                                          |
-| ----------------- | ------------------------------------------------ |
-| ⚙️ Backend        | APIs, lógica de negocio, escalabilidad           |
-| 🎨 Frontend       | Interfaces dinámicas con React                   |
-| 🗄 Bases de Datos | Modelado SQL y NoSQL                             |
-| 🧪 QA             | Pruebas funcionales, integración y rendimiento   |
-| 🚀 Performance    | Optimización y eliminación de cuellos de botella |
-
-</div>
-
----
-
-## 🧪 Calidad de Software
-
-* Pruebas de usuario, integración y rendimiento
-* Validación de requisitos funcionales y no funcionales
-* Uso de herramientas como **Postman**
-* Manejo de errores y validaciones
-* Aplicación de buenas prácticas de desarrollo
-
----
-
-## 🧠 Enfoque como Ingeniero
-
-```txt
-• Diseño sistemas pensando en escalabilidad desde el inicio
-• Identifico y prevengo cuellos de botella
-• Priorizo código limpio, mantenible y eficiente
-• Me adapto rápidamente a nuevas tecnologías
-```
-
----
-
 ## 🚀 Proyecto Destacado
 
-### 🏠 TuRefugio — API de Sistema de Reservas
+### 🏠 TuRefugio — API de Reservas
 
-Sistema backend para la gestión de alojamientos y reservas.
+Sistema backend para gestión de alojamientos.
 
-**Características principales:**
+**Incluye:**
 
 * Arquitectura modular (Controller → Service → Repository)
-* Autenticación con JWT
-* Validación de disponibilidad de reservas
-* Código limpio y mantenible
+* Autenticación JWT
+* Validación de disponibilidad
+* Código limpio y escalable
 
 🔗 https://github.com/blackfight1022/TuRefugio-app-produccion-
 
 ---
 
-## 📊 Métricas de GitHub
+## 📊 Métricas Avanzadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackfight1022&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackfight1022&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackfight1022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackfight1022&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 ## 💼 Disponibilidad
 
-```diff
+```diff id="5b7tsp"
 + Disponible para oportunidades remotas
-+ Interesado en roles Backend / Full Stack
-+ Enfocado en retos técnicos y crecimiento profesional
++ Backend / Full Stack Developer
++ Enfocado en retos técnicos reales
 ```
 
 ---
@@ -131,27 +110,29 @@ Sistema backend para la gestión de alojamientos y reservas.
 ## 🌐 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jesús-cabrejo-71b871323">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://github.com/blackfight1022">
-    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
   <a href="mailto:esmic20181022@gmail.com">
     <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
+  <a href="https://www.linkedin.com/in/jesús-cabrejo-71b871323">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 esmic20181022@gmail.com  
+  🔗 www.linkedin.com/in/jesús-cabrejo-71b871323  
 </p>
 
 ---
 
-## 🧭 Filosofía de Ingeniería
+## 🧭 Filosofía
 
 <p align="center">
-  <i>"El buen desarrollo de software consiste en crear sistemas escalables, mantenibles y fáciles de entender."</i>
+  <i>"Los mejores sistemas no son los más complejos, sino los más entendibles, escalables y mantenibles."</i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer"/>
 </p>
