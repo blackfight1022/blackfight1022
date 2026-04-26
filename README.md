@@ -109,7 +109,7 @@ Endpoints optimizados, documentados y testeados con Postman.
 
 ## 📫 Contacto
 
-* 💼 LinkedIn: [https://linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+* 💼 LinkedIn: [https://linkedin.com/in/tuusuario](www.linkedin.com/in/jesús-cabrejo-71b871323)
 * 🌐 Portafolio: [https://tuportafolio.com](https://github.com/blackfight1022)
 * 📧 Email: [tuemail@gmail.com](esmic20181022@gmail.com)
 
