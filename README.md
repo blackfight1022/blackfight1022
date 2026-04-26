@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackfight1022&label=Visitas%20al%20Perfil&color=00F7FF&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:141E30,100:243B55&height=300&section=header&text=BLACKFIGHT1022&fontSize=50&fontColor=00F7FF&animation=fadeIn"/>
 </p>
 
 
