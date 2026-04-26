@@ -1,70 +1,44 @@
 # ⚡ Blackfight1022 — Full Stack Engineer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:2c5364&height=300&section=header&text=BLACKFIGHT1022&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:2c5364&height=260&section=header&text=BLACKFIGHT1022&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=950&lines=Full+Stack+Engineer+⚡;Backend+Focused+Developer;Diseñando+APIs+Escalables;Arquitectura+Limpia+y+Modular;Performance+%7C+Scalability+%7C+Reliability;Disponible+para+Trabajo+Remoto"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer+⚡;Backend+Focused+Developer;APIs+Escalables+y+de+Alto+Rendimiento;Clean+Architecture+%7C+System+Design;Disponible+para+Trabajo+Remoto"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackfight1022&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+  <img src="https://komarev.com/ghpvc/?username=blackfight1022&label=Visitas&color=00F7FF&style=flat" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:141E30,100:243B55&height=300&section=header&text=BLACKFIGHT1022&fontSize=50&fontColor=00F7FF&animation=fadeIn"/>
-</p>
-
 
 ---
 
 ## 🧠 Sobre mí
 
-```diff id="7l9qpf"
-Desarrollador Full Stack con enfoque en la creación de aplicaciones web modernas, escalables y de alto rendimiento utilizando tecnologías como Node.js, React, JavaScript, HTML5 y CSS3. Experiencia en desarrollo frontend y backend, diseño e implementación de APIs y endpoints, así como integración de servicios externos.
-
-Cuento con sólidos conocimientos en gestión de bases de datos SQL y NoSQL, y en el ciclo completo de desarrollo de software, incluyendo levantamiento y validación de requisitos funcionales y no funcionales. Experiencia en pruebas de calidad (QA), abarcando pruebas de usuario, integración, seguridad y rendimiento, apoyadas con herramientas como Postman.
-
-Además, tengo en cuenta la evaluación de componentes técnicos (incluyendo hardware y arquitectura) para garantizar implementaciones eficientes, evitando cuellos de botella y asegurando la escalabilidad del sistema.
-
-Me caracterizo por mi rápida adaptabilidad a nuevas tecnologías y lenguajes de programación, manteniendo buenas prácticas de desarrollo, código limpio y soluciones orientadas a resultados.
-```
-
-Desarrollador enfocado en la creación de **aplicaciones web modernas, escalables y eficientes**, trabajando con:
-
-⚙️ Node.js • ⚛️ React • 🧠 JavaScript • 🌐 HTML5 • 🎨 CSS3
+Desarrollador Full Stack enfocado en la creación de **aplicaciones web modernas, escalables y de alto rendimiento**, utilizando tecnologías como **Node.js, React, JavaScript, HTML5 y CSS3**.
 
 Experiencia en:
 
 * Desarrollo frontend y backend
-* Diseño de APIs y arquitectura de sistemas
+* Diseño e implementación de APIs y endpoints
 * Integración de servicios externos
-* Bases de datos SQL y NoSQL
-* Validación de requisitos y pruebas QA
+* Gestión de bases de datos SQL y NoSQL
 
----
+También cuento con conocimientos en:
 
-## ⚡ Actividad & Dinámica
+* Ciclo completo de desarrollo de software
+* Validación de requisitos funcionales y no funcionales
+* Pruebas de calidad (QA): usuario, integración, seguridad y rendimiento
+* Uso de herramientas como Postman
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackfight1022&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
+Además, evalúo componentes técnicos y arquitectura para:
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackfight1022&theme=tokyonight"/>
-</p>
+* Evitar cuellos de botella
+* Garantizar escalabilidad
+* Asegurar implementaciones eficientes
 
----
-
-## 🏗️ Mentalidad de Ingeniería
-
-```txt id="y4lh7q"
-• Diseño pensando en escalabilidad desde el inicio
-• Evito cuellos de botella antes de que ocurran
-• Priorizo código limpio, mantenible y eficiente
-• Me adapto rápido a nuevas tecnologías
-```
+Me adapto rápidamente a nuevas tecnologías, aplicando **buenas prácticas, código limpio y soluciones orientadas a resultados**.
 
 ---
 
@@ -89,29 +63,52 @@ Sistema backend para gestión de alojamientos.
 * Validación de disponibilidad
 * Código limpio y escalable
 
-🔗 https://github.com/blackfight1022/TuRefugio-app-produccion-
+<p align="center">
+  <a href="https://github.com/blackfight1022/TuRefugio-app-produccion-">
+    <img src="https://img.shields.io/badge/Ver%20Repositorio-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-## 📊 Métricas Avanzadas
+## 📊 Actividad
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackfight1022&theme=tokyonight"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackfight1022&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+## 🏆 Logros
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackfight1022&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=blackfight1022&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
+
+---
+
+## 🏗️ Mentalidad de Ingeniería
+
+```txt
+• Diseño pensando en escalabilidad desde el inicio  
+• Prevengo cuellos de botella antes de que ocurran  
+• Priorizo código limpio, mantenible y eficiente  
+• Me adapto rápidamente a nuevas tecnologías  
+```
 
 ---
 
 ## 💼 Disponibilidad
 
-```diff id="5b7tsp"
-+ Disponible para oportunidades remotas
-+ Backend / Full Stack Developer
-+ Enfocado en retos técnicos reales
+```diff
++ Disponible para oportunidades remotas  
++ Backend / Full Stack Developer  
++ Enfocado en retos técnicos reales  
 ```
 
 ---
@@ -137,11 +134,11 @@ Sistema backend para gestión de alojamientos.
 ## 🧭 Filosofía
 
 <p align="center">
-  <i>"Los mejores sistemas no son los más complejos, sino los más entendibles, escalables y mantenibles."</i>
+  <i>"El buen software no es el más complejo, sino el más entendible, escalable y mantenible."</i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=140&section=footer"/>
 </p>
