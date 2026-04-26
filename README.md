@@ -1,126 +1,168 @@
-# 👋 Hola, soy @blackfight1022
+# 🚀 Blackfight1022 — Senior Full Stack Software Engineer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Software%20Engineer%20%7C%20System%20Design%20Focused&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Node.js+Developer;React+Frontend+Engineer;Backend+API+Architect;SQL+%26+NoSQL+Specialist;Clean+Code+Advocate;Scalable+Systems+Builder"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Engineer;Backend+%7C+System+Design+%7C+Distributed+Systems;Node.js+%7C+React+%7C+APIs+at+Scale;Clean+Architecture+%7C+SOLID+%7C+Performance+Engineering;Production-Grade+Software+Builder"/>
 </p>
 
 <p align="center">
-💻 Full Stack Developer | Node.js • React • JavaScript • APIs • QA • Databases
+  <b>Engineering scalable systems, designing robust architectures, and building production-grade software with performance-first principles.</b>
 </p>
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 🧠 Engineering Philosophy (Elite Mindset)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackfight1022&layout=compact&theme=tokyonight" height="170"/>
-</p>
+> “A system is only as strong as its architecture, not its features.”
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackfight1022&theme=tokyonight"/>
-</p>
-
-### 🧠 Resumen de actividad
-
-* ⭐ Stars, commits y PRs en crecimiento constante
-* 🧩 Enfoque en arquitectura backend y sistemas escalables
-* ⚡ Desarrollo activo en proyectos full stack
+* 🏗️ Design first, implement second
+* ⚙️ Optimize for scalability before complexity
+* 🔍 Observability, reliability, maintainability by default
+* 🧼 Clean architecture > clever code
+* 🚀 Performance is a feature, not an afterthought
 
 ---
 
-## 🚀 Perfil Profesional
+## 🏛️ System Design Expertise
 
-Desarrollador Full Stack con enfoque en la creación de aplicaciones web modernas, escalables y de alto rendimiento utilizando tecnologías como Node.js, React, JavaScript, HTML5 y CSS3. Experiencia en desarrollo frontend y backend, diseño e implementación de APIs y endpoints, así como integración de servicios externos.
+### 🔷 Architecture Patterns
 
-Cuento con sólidos conocimientos en gestión de bases de datos SQL y NoSQL, y en el ciclo completo de desarrollo de software, incluyendo levantamiento y validación de requisitos funcionales y no funcionales. Experiencia en pruebas de calidad (QA), abarcando pruebas de usuario, integración, seguridad y rendimiento, apoyadas con herramientas como Postman.
+* Microservices & modular monoliths
+* Event-driven architecture
+* Stateless API design
+* Layered architecture (Controller → Service → Repository)
 
-Además, tengo en cuenta la evaluación de componentes técnicos (incluyendo hardware y arquitectura) para garantizar implementaciones eficientes, evitando cuellos de botella y asegurando la escalabilidad del sistema.
+### 🔷 Scalability Engineering
 
-Me caracterizo por mi rápida adaptabilidad a nuevas tecnologías y lenguajes de programación, manteniendo buenas prácticas de desarrollo, código limpio y soluciones orientadas a resultados.
+* Horizontal scaling strategies
+* Load distribution concepts
+* Bottleneck detection & resolution
+* Caching strategies (in-memory, DB-level, API-level)
 
----
+### 🔷 Data Engineering
 
-## ⚙️ Ingeniería de Software
-
-* 🧠 Desarrollo **Frontend & Backend profesional**
-* 🔗 Diseño de **APIs RESTful y microservicios**
-* 🧩 Arquitectura de software escalable
-* 🗄️ Bases de datos **SQL (MySQL) y NoSQL (MongoDB)**
-* 🧪 QA: integración, usuario, seguridad y performance
-* 📬 Testing avanzado con **Postman**
-* 📋 Levantamiento de requisitos funcionales y no funcionales
-* ⚡ Optimización de rendimiento y detección de cuellos de botella
-* 🧼 Clean Code + SOLID principles
-* 🔄 Adaptación rápida a nuevas tecnologías
+* Relational modeling (MySQL)
+* Document modeling (MongoDB)
+* Indexing & query optimization
+* Data consistency vs availability tradeoffs
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Core Engineering Stack
 
-### Frontend
+### Frontend Engineering
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DFE1)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Backend
+### Backend Engineering
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-### Databases
+### Databases & Storage
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### Tools
+### Dev Tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
-## 📌 Proyectos Destacados
-
-### 🔹 Sistema Escalable Backend
-
-Arquitectura basada en Node.js + Express + MongoDB con autenticación y roles.
-
-### 🔹 Dashboard React Profesional
-
-Panel administrativo con consumo de APIs y visualización de datos.
-
-### 🔹 API REST Completa
-
-Endpoints optimizados, documentados y testeados con Postman.
-
----
-
-## 🧠 Arquitectura y Enfoque
-
-> Diseño sistemas robustos basados en arquitectura escalable, rendimiento optimizado y buenas prácticas para producción.
-
----
-
-## 📫 Contacto
-
-* 💼 LinkedIn: [https://linkedin.com/in/tuusuario](www.linkedin.com/in/jesús-cabrejo-71b871323)
-* 🌐 Portafolio: [https://tuportafolio.com](https://github.com/blackfight1022)
-* 📧 Email: [tuemail@gmail.com](esmic20181022@gmail.com)
-
----
+## 📊 Engineering Analytics
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackfight1022&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackfight1022&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## ⚡ Mentalidad
+## 🚀 Production-Level Projects (Case Studies)
 
-> "Build scalable systems. Write clean code. Keep learning. Ship fast."
+### ⚙️ Distributed Backend System
+
+**Problem:** Need for scalable API architecture under concurrent load
+
+**Solution:**
+
+* Node.js layered architecture
+* Stateless authentication system (JWT)
+* Modular service separation
+
+**Outcome:** Maintainable and horizontally scalable backend structure
+
+---
+
+### 📊 React Admin Platform
+
+**Problem:** Complex data visualization with API-heavy interactions
+
+**Solution:**
+
+* Component-driven architecture
+* Optimized rendering strategies
+* Centralized state management
+
+**Outcome:** High-performance dashboard with scalable UI structure
+
+---
+
+### 🔗 Production REST API
+
+**Problem:** Need for structured, testable API layer
+
+**Solution:**
+
+* RESTful design principles
+* Proper HTTP semantics
+* Postman test coverage
+
+**Outcome:** Stable, documented, production-ready API
+
+---
+
+## 🧪 Software Quality Engineering
+
+* Unit & integration testing strategies
+* API validation & contract testing
+* Performance benchmarking
+* Security best practices (input validation, auth layers)
+
+---
+
+## 📐 Engineering Metrics Focus
+
+* API latency optimization
+* Query execution performance
+* System throughput analysis
+* Maintainability index
+
+---
+
+## 📫 Professional Contact
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/jesús-cabrejo-71b871323](https://www.linkedin.com/in/jesús-cabrejo-71b871323)
+* 💻 GitHub: [https://github.com/blackfight1022](https://github.com/blackfight1022)
+* 📧 Email: [esmic20181022@gmail.com](mailto:esmic20181022@gmail.com)
+
+---
+
+## 🧭 Engineering Principle
+
+> “Simplicity scales. Complexity fails.”
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer"/>
+</p>
