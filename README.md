@@ -1,157 +1,160 @@
-# 🚀 Blackfight1022 — Senior Full Stack Software Engineer
+# 🚀 Blackfight1022 — Software Engineer (Backend / System Design)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Software%20Engineer%20%7C%20System%20Design%20Focused&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Software%20Engineer%20%7C%20System%20Design&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Engineer;Backend+%7C+System+Design+%7C+Distributed+Systems;Node.js+%7C+React+%7C+APIs+at+Scale;Clean+Architecture+%7C+SOLID+%7C+Performance+Engineering;Production-Grade+Software+Builder"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+System+Design+Focused;Node.js+%7C+React+%7C+Distributed+Systems;Scalable+APIs+%7C+Clean+Architecture;Performance+%7C+Reliability+%7C+Maintainability"/>
 </p>
 
 <p align="center">
-  <b>Engineering scalable systems, designing robust architectures, and building production-grade software with performance-first principles.</b>
+  <b>Building reliable, scalable and maintainable software systems with strong engineering fundamentals.</b>
 </p>
 
 ---
 
-## 🧠 Engineering Philosophy (Elite Mindset)
+## 🧠 About (Engineering Summary)
 
-> “A system is only as strong as its architecture, not its features.”
+Software Engineer focused on backend systems, API design, and scalable architecture. I specialize in building production-ready applications using modern JavaScript ecosystems, with emphasis on system reliability, maintainability, and performance.
 
-* 🏗️ Design first, implement second
-* ⚙️ Optimize for scalability before complexity
-* 🔍 Observability, reliability, maintainability by default
-* 🧼 Clean architecture > clever code
-* 🚀 Performance is a feature, not an afterthought
+Core mindset: **simplicity, scalability, and correctness over complexity.**
 
 ---
 
-## 🏛️ System Design Expertise
+## 🎯 Engineering Focus Areas
 
-### 🔷 Architecture Patterns
-
-* Microservices & modular monoliths
-* Event-driven architecture
-* Stateless API design
-* Layered architecture (Controller → Service → Repository)
-
-### 🔷 Scalability Engineering
-
-* Horizontal scaling strategies
-* Load distribution concepts
-* Bottleneck detection & resolution
-* Caching strategies (in-memory, DB-level, API-level)
-
-### 🔷 Data Engineering
-
-* Relational modeling (MySQL)
-* Document modeling (MongoDB)
-* Indexing & query optimization
-* Data consistency vs availability tradeoffs
+* Backend systems design & API architecture
+* Distributed system fundamentals
+* Scalable service design (modular & stateless)
+* Database modeling (SQL / NoSQL)
+* Performance optimization & bottleneck analysis
+* Software quality (testing & validation strategies)
 
 ---
 
-## ⚙️ Core Engineering Stack
+## 🏗️ System Design Overview
 
-### Frontend Engineering
+### Architecture Principles
+
+* Separation of concerns (layered architecture)
+* Stateless services where possible
+* Horizontal scalability readiness
+* Fail-safe and resilient API design
+
+### Common Patterns Used
+
+* Controller → Service → Repository
+* Event-driven architecture (conceptual)
+* RESTful API standards
+* Modular monolith evolution path
+
+---
+
+## 🧩 Reference Architecture
+
+```mermaid
+graph TD
+A[Client / Frontend] --> B[API Gateway]
+B --> C[Backend Services]
+C --> D[Business Logic Layer]
+D --> E[(Database SQL/NoSQL)]
+C --> F[External Services / APIs]
+```
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DFE1)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Backend Engineering
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-### Databases & Storage
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### Dev Tools
+### Tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
-## 📊 Engineering Analytics
+## 🚀 Selected Engineering Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackfight1022&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackfight1022&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+### 1. Scalable Backend API System
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackfight1022&theme=tokyonight&hide_border=true"/>
-</p>
+**Goal:** Design modular backend architecture for extensibility and maintainability
 
----
+* RESTful API structure
+* Authentication & authorization layer
+* Service-based architecture
 
-## 🚀 Production-Level Projects (Case Studies)
-
-### ⚙️ Distributed Backend System
-
-**Problem:** Need for scalable API architecture under concurrent load
-
-**Solution:**
-
-* Node.js layered architecture
-* Stateless authentication system (JWT)
-* Modular service separation
-
-**Outcome:** Maintainable and horizontally scalable backend structure
+**Focus:** Scalability, maintainability, clean separation of concerns
 
 ---
 
-### 📊 React Admin Platform
+### 2. Data-Driven Dashboard (React)
 
-**Problem:** Complex data visualization with API-heavy interactions
-
-**Solution:**
+**Goal:** Build responsive UI consuming high-frequency API data
 
 * Component-driven architecture
-* Optimized rendering strategies
-* Centralized state management
+* Optimized rendering strategy
+* API integration layer
 
-**Outcome:** High-performance dashboard with scalable UI structure
+**Focus:** UI performance and clean frontend architecture
 
 ---
 
-### 🔗 Production REST API
+### 3. REST API Engineering Project
 
-**Problem:** Need for structured, testable API layer
+**Goal:** Build production-ready API with proper standards
 
-**Solution:**
-
-* RESTful design principles
+* Clean REST design principles
 * Proper HTTP semantics
-* Postman test coverage
+* Postman-based validation workflow
 
-**Outcome:** Stable, documented, production-ready API
-
----
-
-## 🧪 Software Quality Engineering
-
-* Unit & integration testing strategies
-* API validation & contract testing
-* Performance benchmarking
-* Security best practices (input validation, auth layers)
+**Focus:** Reliability, structure, and testability
 
 ---
 
-## 📐 Engineering Metrics Focus
+## 🧪 Software Quality
 
-* API latency optimization
-* Query execution performance
-* System throughput analysis
-* Maintainability index
+* Unit & integration testing principles
+* API contract validation
+* Error handling strategies
+* Input validation & security basics
 
 ---
 
-## 📫 Professional Contact
+## 📊 Engineering Signals
+
+* System maintainability
+* API response consistency
+* Query efficiency
+* Architectural modularity
+
+---
+
+## 🛠️ Core Principles
+
+* Build simple systems that scale
+* Prefer explicit design over implicit behavior
+* Optimize when necessary, not prematurely
+* Design for failure and recovery
+
+---
+
+## 📫 Contact
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/jesús-cabrejo-71b871323](https://www.linkedin.com/in/jesús-cabrejo-71b871323)
 * 💻 GitHub: [https://github.com/blackfight1022](https://github.com/blackfight1022)
@@ -159,9 +162,9 @@
 
 ---
 
-## 🧭 Engineering Principle
+## 🧭 Engineering Philosophy
 
-> “Simplicity scales. Complexity fails.”
+> “Good engineering is about making systems understandable, reliable, and evolvable.”
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer"/>
