@@ -1,25 +1,34 @@
 # ⚡ Blackfight1022 — Full Stack Engineer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=280&section=header&text=BLACKFIGHT1022&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:2c5364&height=300&section=header&text=BLACKFIGHT1022&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2300&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+⚡;Backend+Focused+Engineer;APIs+Escalables+y+de+Alto+Rendimiento;Clean+Architecture+%7C+System+Design;Disponible+para+Trabajo+Remoto"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=950&lines=Full+Stack+Engineer+⚡;Backend+Focused+Developer;Diseñando+APIs+Escalables;Arquitectura+Limpia+y+Modular;Performance+%7C+Scalability+%7C+Reliability;Disponible+para+Trabajo+Remoto"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackfight1022&label=Visitas&color=00F7FF&style=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=blackfight1022&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=blackfight1022&label=Visitas%20al%20Perfil&color=00F7FF&style=flat" />
+</p>
+
 
 ---
 
 ## 🧠 Sobre mí
 
 ```diff id="7l9qpf"
-+ Desarrollador Full Stack enfocado en backend
-+ Construyo sistemas escalables y de alto rendimiento
-# Convierto requerimientos complejos en soluciones eficientes
+Desarrollador Full Stack con enfoque en la creación de aplicaciones web modernas, escalables y de alto rendimiento utilizando tecnologías como Node.js, React, JavaScript, HTML5 y CSS3. Experiencia en desarrollo frontend y backend, diseño e implementación de APIs y endpoints, así como integración de servicios externos.
+
+Cuento con sólidos conocimientos en gestión de bases de datos SQL y NoSQL, y en el ciclo completo de desarrollo de software, incluyendo levantamiento y validación de requisitos funcionales y no funcionales. Experiencia en pruebas de calidad (QA), abarcando pruebas de usuario, integración, seguridad y rendimiento, apoyadas con herramientas como Postman.
+
+Además, tengo en cuenta la evaluación de componentes técnicos (incluyendo hardware y arquitectura) para garantizar implementaciones eficientes, evitando cuellos de botella y asegurando la escalabilidad del sistema.
+
+Me caracterizo por mi rápida adaptabilidad a nuevas tecnologías y lenguajes de programación, manteniendo buenas prácticas de desarrollo, código limpio y soluciones orientadas a resultados.
 ```
 
 Desarrollador enfocado en la creación de **aplicaciones web modernas, escalables y eficientes**, trabajando con:
