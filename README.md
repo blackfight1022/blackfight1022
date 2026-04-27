@@ -1,4 +1,4 @@
-# 🚀 Blackfight1022 — Full Stack Engineer ⚡
+# 🚀 Blackfight1022 — Full Stack Desarrollador ⚡
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=BLACKFIGHT1022&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
